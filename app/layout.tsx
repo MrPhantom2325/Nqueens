@@ -8,7 +8,7 @@ const inter = Inter({ subsets: ["latin"] })
 export const metadata = {
   title: "N-Queens Problem Solver",
   description: "Interactive visualization of the N-Queens problem and its solutions",
-    generator: 'v0.dev'
+  
 }
 
 export default function RootLayout({
